@@ -2,3 +2,23 @@
 .env
 .env.*
 credentials*.json
+
+# Claude Code agent artifacts
+.claude/
+**/CLAUDE.md
+!CLAUDE.md
+
+# Nix
+result
+result-*
+.direnv/
+
+# Release artifacts
+*.tar.xz
+*.tar.gz
+*.xpi
+
+# OS (cross-platform safety)
+.DS_Store
+Thumbs.db
+
