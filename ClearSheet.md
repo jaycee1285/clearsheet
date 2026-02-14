@@ -1,0 +1,1 @@
+/home/john/Sync/JMC/SideProjects/ClearSheet/ClearSheet.md
